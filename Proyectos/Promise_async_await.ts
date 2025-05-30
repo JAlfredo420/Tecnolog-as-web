@@ -63,4 +63,7 @@ import { fetchAllApis, fetchData, fetchDataWithAsyncAwait,} from "./29Mayo/prome
     console.log("Comments: ", comments);
   })
   .catch((error) => console.error(error));
-  
+
+//--------------------------------------------------------------------------------------------------------------
+
+link: https ://www.freecodecamp.org/news/learn-async-programming-in-typescript-promises-asyncawait-and-callbacks/
